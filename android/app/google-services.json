@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557150240024",
+    "project_id": "clinic-management-system-f5dc1",
+    "storage_bucket": "clinic-management-system-f5dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557150240024:android:76a37824bc4f9741e7b26d",
+        "android_client_info": {
+          "package_name": "com.example.clinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557150240024-ep4q64rto79gvv9m8pe9m6m4hpfc2a2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clinic_app",
+            "certificate_hash": "68465e9f44b50a6637d992538d39e8f3879972bc"
+          }
+        },
+        {
+          "client_id": "557150240024-n07fioo50oqvrbse2hjkhtpqof9jfe0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrqtRoyChlkAEtjHvRQ9LarFrQYguwL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557150240024-n07fioo50oqvrbse2hjkhtpqof9jfe0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
